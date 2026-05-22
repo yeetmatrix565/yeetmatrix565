@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Hi, I'm Pratham Sharma ⚡</h1>
 
 <h3 align="center">
-Electrical & Electronics Engineering Student | EV Enthusiast | AI Builder | Embedded Systems Explorer
+Electrical & Electronics Engineering Student | EV Enthusiast | AI Builder | Full Stack Developer | Embedded Systems Explorer ⚡
 </h3>
 
 <p align="center">
@@ -37,6 +37,19 @@ class PrathamSharma:
 ```
 
 ---
+# 🎯 Current Focus
+
+🔋 Electric Vehicles & Battery Technology
+
+🤖 AI-Powered Applications
+
+⚙️ Embedded Systems & IoT
+
+💻 Full Stack Development
+
+📚 Data Structures & Algorithms
+
+🚀 Building Engineering Solutions with Software + Hardware
 
 # ⚡ What I Do
 
@@ -54,27 +67,51 @@ class PrathamSharma:
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack & Tools
 
-### Engineering
+### 💻 Programming Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
+### 🚀 Full Stack Development
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+### 🤖 AI & Data
+
+![NLP](https://img.shields.io/badge/NLP-blue?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
+![Resume Parsing](https://img.shields.io/badge/Resume%20Parsing-orange?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-red?style=for-the-badge)
+
+### ⚡ Electrical & Embedded
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks)
 ![Simulink](https://img.shields.io/badge/Simulink-red?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 ![Proteus](https://img.shields.io/badge/Proteus-blue?style=for-the-badge)
 
-### Programming
+### 📚 Computer Science Fundamentals
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+✅ Data Structures & Algorithms
 
-### AI & Development
+✅ Object-Oriented Programming
 
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+✅ Problem Solving
+
+✅ System Design Fundamentals
+
+✅ Database Design
+
+✅ API Development
+
 
 ---
 
