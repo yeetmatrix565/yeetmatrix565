@@ -1,84 +1,80 @@
 <h1 align="center">⚡ Hi, I'm Pratham Sharma ⚡</h1>
 
 <h3 align="center">
-Electrical & Electronics Engineering Student | EV Enthusiast | BMS Developer | Embedded Systems Explorer
+Electrical & Electronics Engineering Student | EV Enthusiast | AI Builder | Embedded Systems Explorer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+the+Future+of+Electric+Mobility+⚡;Battery+Management+Systems+Developer+🔋;Embedded+Systems+%26+IoT+Enthusiast+🤖;Renewable+Energy+Explorer+☀️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+Smart+Engineering+Solutions+⚡;EV+%26+Battery+Technology+Enthusiast+🔋;Embedded+Systems+%26+IoT+Developer+🤖;Exploring+AI+for+Real+World+Engineering+🚀" />
 </p>
 
 ---
 
-## 🚀 Engineering Profile
+## 🎯 About Me
 
-```cpp
-class PrathamSharma
-{
-public:
+```python
+class PrathamSharma:
 
-    string education =
-        "B.E Electrical & Electronics Engineering";
+    education = "B.E Electrical & Electronics Engineering"
 
-    string focus =
-        "Electric Vehicles & Battery Technology";
-
-    vector<string> interests =
-    {
+    interests = [
+        "Electric Vehicles",
         "Battery Management Systems",
         "Embedded Systems",
-        "Power Electronics",
-        "EV Charging Infrastructure",
-        "Renewable Energy",
-        "IoT Automation"
-    };
+        "Artificial Intelligence",
+        "IoT Automation",
+        "Renewable Energy"
+    ]
 
-    string currentMission =
-        "Building safer and smarter battery systems ⚡";
-};
+    current_focus = [
+        "EV Technology",
+        "Battery Safety",
+        "AI Applications",
+        "Engineering Automation"
+    ]
+
+    motto = "Build. Learn. Improve."
 ```
 
 ---
 
-## ⚡ Current Focus
+# ⚡ What I Do
 
-🔋 Battery Management Systems
+🔋 Design Battery Management Systems
 
-🚗 Electric Vehicles
+🚗 Explore Electric Vehicle Technologies
 
-⚙️ Embedded Hardware
+🤖 Build AI-powered applications
 
-🌞 Renewable Energy Systems
+📡 Create IoT-based automation systems
 
-📡 IoT Based Automation
+⚙️ Work on Embedded & Hardware Projects
 
-📈 MATLAB & Simulink Modeling
+📊 Develop software solutions for real-world problems
 
 ---
 
-## 🛠️ Tech Arsenal
+# 🛠️ Tech Stack
 
-### Electrical Engineering
+### Engineering
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks)
 ![Simulink](https://img.shields.io/badge/Simulink-red?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 ![Proteus](https://img.shields.io/badge/Proteus-blue?style=for-the-badge)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-red?style=for-the-badge)
 
-### Engineering Domains
+### Programming
 
-🔋 Battery Management Systems
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 
-🚗 Electric Vehicles
+### AI & Development
 
-⚡ Power Electronics
-
-🔄 Control Systems
-
-🌞 Renewable Energy
-
-📡 IoT Systems
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 
 ---
 
@@ -86,66 +82,66 @@ public:
 
 ## 🔋 Lithium-Ion BMS using Passive Balancing
 
-⚡ Battery Monitoring
-
-⚡ Cell Balancing
-
-⚡ Protection Mechanisms
-
-⚡ Improved Battery Life
+Battery monitoring, cell balancing, protection logic, and safety optimization for Lithium-Ion battery packs.
 
 ---
 
-## ☀️ IoT Based Solar Power Bank
+## 🤖 PrepWise AI
 
-🌞 Solar Energy Harvesting
+AI-powered mock interview platform featuring:
 
-📡 IoT Monitoring
-
-🔋 Portable Charging Solution
-
-⚡ Sustainable Energy Design
-
----
-
-## 🌡️ Temperature Controlled Smart Fan
-
-🤖 Arduino Automation
-
-📶 WiFi Monitoring
-
-🌡️ Temperature Sensing
-
-⚡ Smart Energy Usage
+- Resume Parsing
+- Voice-Based Interviews
+- AI Evaluation
+- Performance Analytics
 
 ---
 
-## 📊 GitHub Analytics
+## 📄 ResumeAnalyzer AI
+
+AI-based resume screening and skill matching platform using NLP and FastAPI.
+
+---
+
+## ☀️ IoT Solar Power Bank
+
+Portable solar charging system integrated with IoT monitoring.
+
+---
+
+## 🌡️ Smart Temperature Controlled Fan
+
+Arduino-based automation project with sensors, WiFi monitoring, and energy optimization.
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeetmatrix565&show_icons=true&theme=tokyonight"/>
+
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yeetmatrix565&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🏆 Engineering Goals 2026
+# 🏆 Current Learning Goals
 
-☑ Build Advanced BMS Prototype
+🔋 Advanced Battery Technologies
 
-☑ Learn EV Charging Systems
+🚗 EV Charging Infrastructure
 
-☑ Design Embedded Hardware Projects
+🤖 Applied Artificial Intelligence
 
-☑ Explore PCB Design
+⚙️ Embedded Hardware Design
 
-☑ Contribute to Sustainable Energy Solutions
+📡 Industrial IoT Systems
 
 ---
 
-## 🌎 Connect With Me
+# 🌐 Connect With Me
 
-📧 Email: spratham172004@gmail.com
+📧 spratham172004@gmail.com
 
 💼 LinkedIn : https://www.linkedin.com/in/pratham-sharma-674627313/
 
@@ -153,18 +149,16 @@ public:
 
 ---
 
-## ⚡ Quote I Live By
+## ⚡ Fun Fact
 
 ```cpp
-while(!success)
+while(alive)
 {
     Learn();
     Build();
-    Improve();
+    Experiment();
     Repeat();
 }
 ```
 
-<p align="center">
-⚡ Engineering the Future of Sustainable Mobility ⚡
-</p>
+> "Technology becomes powerful when Engineering and Intelligence work together."
