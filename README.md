@@ -1,158 +1,80 @@
-# Hi, I'm Pratham Sharma 👋
+<h1 align="center">Hi 👋, I'm Pratham Sharma</h1>
 
-### Software Developer | Full Stack Developer | AI Enthusiast | Problem Solver
+<h3 align="center">
+Software Developer • Full Stack Engineer • AI Enthusiast
+</h3>
 
----
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Engineer;Backend+Developer;AI+Enthusiast;Building+Cool+Things+🚀" />
+</p>
 
-## 🚀 About Me
-
-```python
-class PrathamSharma:
-
-    role = "Software Developer"
-
-    interests = [
-        "Backend Development",
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "Problem Solving",
-        "System Design"
-    ]
-
-    current_focus = [
-        "Building Scalable Applications",
-        "Data Structures & Algorithms",
-        "Backend Engineering",
-        "Generative AI"
-    ]
-
-    motto = "Build. Learn. Ship."
-```
-
-I'm a software developer passionate about building scalable web applications and AI-powered products. I enjoy solving challenging problems, learning new technologies, and creating applications that deliver real-world impact.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=yeetmatrix565&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
-## 💻 Current Focus
+# 💫 About Me
 
-- 🌐 Full Stack Development
-- ⚙️ Backend Engineering
-- 🤖 AI-Powered Applications
-- 📚 Data Structures & Algorithms
-- ☁️ Cloud & Deployment
-- 🚀 Building End-to-End Software Products
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+💻 Passionate about building software that solves real-world problems.
+
+🚀 Interested in Backend Development, Full Stack Engineering and AI.
+
+📚 Strong believer in learning by building.
+
+⚡ Always exploring new technologies and creating meaningful projects.
+
+🌱 Currently diving deeper into System Design, Cloud and Generative AI.
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
 ### Languages
 
-- C++
-- Java
-- Python
-- JavaScript
-- TypeScript
-- SQL
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,sql"/>
+</p>
 
 ### Frontend
 
-- React
-- Next.js
-- HTML
-- CSS
-- Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+</p>
 
 ### Backend
 
-- Node.js
-- Express.js
-- FastAPI
-- Firebase
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase"/>
+</p>
 
-### Databases
+### Database
 
-- MongoDB
-- MySQL
-- Firebase Firestore
-
-### AI
-
-- Machine Learning
-- NLP
-- Generative AI
-- LLM Applications
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
+</p>
 
 ### Tools
 
-- Git
-- GitHub
-- Docker
-- Postman
-- VS Code
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
+</p>
 
 ---
 
-## 📚 Computer Science
+# 🚀 What I'm Building
 
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- DBMS
-- Operating Systems
-- Computer Networks
-- REST APIs
-- Git & Version Control
-- System Design Fundamentals
+- 🤖 AI-powered developer tools
+- 🌐 Full Stack web applications
+- ⚙️ Scalable backend APIs
+- 📱 Modern web experiences
+- ☁️ Cloud-ready software
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 PrepWise AI
-
-AI-powered mock interview platform featuring:
-
-- Resume Parsing
-- Voice Interviews
-- AI Feedback
-- Interview Analytics
-- Authentication
-
----
-
-### 📄 ResumeAnalyzer AI
-
-Resume analysis platform built with FastAPI and NLP that extracts skills, calculates ATS match scores, and generates recommendations.
-
----
-
-### 🎬 MoodFlix
-
-Emotion-based movie recommendation system using OpenCV, Flask, Deep Learning, and TMDB API.
-
----
-
-### 📅 HabitFlow
-
-Habit tracking web application with authentication, dashboards, analytics, and calendar tracking.
-
----
-
-### 🎮 Tic Tac Pro
-
-Real-time multiplayer Tic Tac Toe platform with AI gameplay, Firebase authentication, matchmaking, and leaderboards.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeetmatrix565&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeetmatrix565&layout=compact&theme=tokyonight)
-
----
-
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Backend Engineering
 - System Design
@@ -162,183 +84,98 @@ Real-time multiplayer Tic Tac Toe platform with AI gameplay, Firebase authentica
 
 ---
 
-## 📫 Connect With Me
-
-📧 Email: **spratham172004@gmail.com**
-
-💼 LinkedIn: https://www.linkedin.com/in/pratham-sharma-674627313/
-
-🐙 GitHub: https://github.com/yeetmatrix565
-
----
-
-## ⚡ Fun Fact
-
-```cpp
-while(alive)
-{
-    Learn();
-    Code();
-    Build();
-    Repeat();
-}
-```
-
-> "Good software is built one commit at a time."<h1 align="center">
-Hi 👋, I'm Pratham Sharma
-</h1>
-
-<h3 align="center">
-Software Developer • Full Stack Engineer • AI Enthusiast
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+Full+Stack+Applications;Backend+Developer;Learning+System+Design;Exploring+Generative+AI;Always+Shipping+Projects+🚀" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 💻 Passionate about building scalable software products.
-- 🌱 Currently learning **Backend Engineering, System Design & Generative AI**
-- 🚀 Love turning ideas into real-world applications.
-- 📚 Consistently improving through **Data Structures & Algorithms**
-- ⚡ Always curious, always building.
-
----
-
-## 🚀 Currently Building
-
-- 🤖 AI-powered applications
-- 🌐 Full Stack Web Apps
-- ⚙️ Backend APIs
-- 📈 Scalable Software Projects
-- ☁️ Cloud-ready applications
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,sql" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
-</p>
-
----
-
-# 🚀 Featured Projects
+# ⭐ Featured Projects
 
 ### 🤖 PrepWise AI
 
-AI-powered mock interview platform featuring
-
-- Resume Parsing
-- Voice Interviews
-- AI Evaluation
-- Interview Analytics
+AI-powered mock interview platform with resume parsing, voice interviews, AI evaluation and interview analytics.
 
 ---
 
 ### 📄 ResumeAnalyzer AI
 
-FastAPI + NLP powered resume analysis system with ATS scoring and job matching.
+FastAPI + NLP powered resume analyzer with ATS scoring and intelligent job matching.
 
 ---
 
 ### 🎬 MoodFlix
 
-Emotion-aware movie recommendation platform using OpenCV, CNN and Flask.
+Emotion-aware movie recommendation system built using OpenCV, Deep Learning and Flask.
 
 ---
 
 ### 📅 HabitFlow
 
-Productivity tracker with authentication, analytics and calendar tracking.
+Productivity and habit tracking application with Firebase authentication and analytics.
 
 ---
 
 ### 🎮 Tic Tac Pro
 
-Real-time multiplayer Tic Tac Toe with AI gameplay and Firebase.
+Real-time multiplayer Tic Tac Toe platform featuring AI gameplay and Firebase.
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yeetmatrix565&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yeetmatrix565&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeetmatrix565&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeetmatrix565&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=yeetmatrix565&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yeetmatrix565&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
 ---
 
-## 🌱 Current Goals
+# 💡 Tech I Enjoy Working With
 
-✅ Master Backend Development
-
-✅ Learn System Design
-
-✅ Solve 500+ DSA Problems
-
-✅ Build Production-ready AI Products
+- ⚡ FastAPI
+- 🚀 Next.js
+- 🔥 Firebase
+- 🤖 AI & LLM Applications
+- 🗄️ MongoDB
+- 🐍 Python
 
 ---
 
-## 🤝 Connect With Me
+# 🌐 Connect With Me
 
-📧 **spratham172004@gmail.com**
+<p>
 
-💼 LinkedIn
+<a href="https://github.com/yeetmatrix565">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-www.linkedin.com/in/pratham-sharma-674627313
+<a href="https://www.linkedin.com/in/pratham-sharma-674627313/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-🐙 GitHub
+<a href="mailto:spratham172004@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-github.com/yeetmatrix565
+</p>
 
 ---
 
 <p align="center">
 
-<i>"First, solve the problem. Then, write the code."</i>
+> *"First, solve the problem. Then, write the code."*  
+> **— John Johnson**
 
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00c6ff&height=120&section=footer"/>
 </p>
