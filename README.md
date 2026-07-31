@@ -1,188 +1,174 @@
-<h1 align="center">⚡ Hi, I'm Pratham Sharma ⚡</h1>
+# Hi, I'm Pratham Sharma 👋
 
-<h3 align="center">
-Electrical & Electronics Engineering Student | EV Enthusiast | AI Builder | Full Stack Developer | Embedded Systems Explorer ⚡
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+Smart+Engineering+Solutions+⚡;EV+%26+Battery+Technology+Enthusiast+🔋;Embedded+Systems+%26+IoT+Developer+🤖;Exploring+AI+for+Real+World+Engineering+🚀" />
-</p>
+### Software Developer | Full Stack Developer | AI Enthusiast | Problem Solver
 
 ---
 
-## 🎯 About Me
+## 🚀 About Me
 
 ```python
 class PrathamSharma:
 
-    education = "B.E Electrical & Electronics Engineering"
+    role = "Software Developer"
 
     interests = [
-        "Electric Vehicles",
-        "Battery Management Systems",
-        "Embedded Systems",
+        "Backend Development",
+        "Full Stack Development",
         "Artificial Intelligence",
-        "IoT Automation",
-        "Renewable Energy"
+        "Problem Solving",
+        "System Design"
     ]
 
     current_focus = [
-        "EV Technology",
-        "Battery Safety",
-        "AI Applications",
-        "Engineering Automation"
+        "Building Scalable Applications",
+        "Data Structures & Algorithms",
+        "Backend Engineering",
+        "Generative AI"
     ]
 
-    motto = "Build. Learn. Improve."
+    motto = "Build. Learn. Ship."
 ```
 
----
-# 🎯 Current Focus
-
-🔋 Electric Vehicles & Battery Technology
-
-🤖 AI-Powered Applications
-
-⚙️ Embedded Systems & IoT
-
-💻 Full Stack Development
-
-📚 Data Structures & Algorithms
-
-🚀 Building Engineering Solutions with Software + Hardware
-
-# ⚡ What I Do
-
-🔋 Design Battery Management Systems
-
-🚗 Explore Electric Vehicle Technologies
-
-🤖 Build AI-powered applications
-
-📡 Create IoT-based automation systems
-
-⚙️ Work on Embedded & Hardware Projects
-
-📊 Develop software solutions for real-world problems
+I'm a software developer passionate about building scalable web applications and AI-powered products. I enjoy solving challenging problems, learning new technologies, and creating applications that deliver real-world impact.
 
 ---
 
-# 🛠️ Tech Stack & Tools
+## 💻 Current Focus
 
-### 💻 Programming Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-
-### 🚀 Full Stack Development
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-
-### 🤖 AI & Data
-
-![NLP](https://img.shields.io/badge/NLP-blue?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
-![Resume Parsing](https://img.shields.io/badge/Resume%20Parsing-orange?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-red?style=for-the-badge)
-
-### ⚡ Electrical & Embedded
-
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks)
-![Simulink](https://img.shields.io/badge/Simulink-red?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
-![Proteus](https://img.shields.io/badge/Proteus-blue?style=for-the-badge)
-
-### 📚 Computer Science Fundamentals
-
-✅ Data Structures & Algorithms
-
-✅ Object-Oriented Programming
-
-✅ Problem Solving
-
-✅ System Design Fundamentals
-
-✅ Database Design
-
-✅ API Development
-
+- 🌐 Full Stack Development
+- ⚙️ Backend Engineering
+- 🤖 AI-Powered Applications
+- 📚 Data Structures & Algorithms
+- ☁️ Cloud & Deployment
+- 🚀 Building End-to-End Software Products
 
 ---
 
-# 🚀 Featured Projects
+## 🛠 Tech Stack
 
-## 🔋 Lithium-Ion BMS using Passive Balancing
+### Languages
 
-Battery monitoring, cell balancing, protection logic, and safety optimization for Lithium-Ion battery packs.
+- C++
+- Java
+- Python
+- JavaScript
+- TypeScript
+- SQL
+
+### Frontend
+
+- React
+- Next.js
+- HTML
+- CSS
+- Tailwind CSS
+
+### Backend
+
+- Node.js
+- Express.js
+- FastAPI
+- Firebase
+
+### Databases
+
+- MongoDB
+- MySQL
+- Firebase Firestore
+
+### AI
+
+- Machine Learning
+- NLP
+- Generative AI
+- LLM Applications
+
+### Tools
+
+- Git
+- GitHub
+- Docker
+- Postman
+- VS Code
 
 ---
 
-## 🤖 PrepWise AI
+## 📚 Computer Science
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS
+- Operating Systems
+- Computer Networks
+- REST APIs
+- Git & Version Control
+- System Design Fundamentals
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 PrepWise AI
 
 AI-powered mock interview platform featuring:
 
 - Resume Parsing
-- Voice-Based Interviews
-- AI Evaluation
-- Performance Analytics
+- Voice Interviews
+- AI Feedback
+- Interview Analytics
+- Authentication
 
 ---
 
-## 📄 ResumeAnalyzer AI
+### 📄 ResumeAnalyzer AI
 
-AI-based resume screening and skill matching platform using NLP and FastAPI.
-
----
-
-## ☀️ IoT Solar Power Bank
-
-Portable solar charging system integrated with IoT monitoring.
+Resume analysis platform built with FastAPI and NLP that extracts skills, calculates ATS match scores, and generates recommendations.
 
 ---
 
-## 🌡️ Smart Temperature Controlled Fan
+### 🎬 MoodFlix
 
-Arduino-based automation project with sensors, WiFi monitoring, and energy optimization.
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeetmatrix565&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yeetmatrix565&theme=tokyonight"/>
-</p>
+Emotion-based movie recommendation system using OpenCV, Flask, Deep Learning, and TMDB API.
 
 ---
 
-# 🏆 Current Learning Goals
+### 📅 HabitFlow
 
-🔋 Advanced Battery Technologies
-
-🚗 EV Charging Infrastructure
-
-🤖 Applied Artificial Intelligence
-
-⚙️ Embedded Hardware Design
-
-📡 Industrial IoT Systems
+Habit tracking web application with authentication, dashboards, analytics, and calendar tracking.
 
 ---
 
-# 🌐 Connect With Me
+### 🎮 Tic Tac Pro
 
-📧 spratham172004@gmail.com
+Real-time multiplayer Tic Tac Toe platform with AI gameplay, Firebase authentication, matchmaking, and leaderboards.
 
-💼 LinkedIn : https://www.linkedin.com/in/pratham-sharma-674627313/
+---
 
-🐙 GitHub : https://github.com/yeetmatrix565
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeetmatrix565&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeetmatrix565&layout=compact&theme=tokyonight)
+
+---
+
+## 🌱 Currently Learning
+
+- Backend Engineering
+- System Design
+- Advanced DSA
+- Cloud Computing
+- Generative AI
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **spratham172004@gmail.com**
+
+💼 LinkedIn: https://www.linkedin.com/in/pratham-sharma-674627313/
+
+🐙 GitHub: https://github.com/yeetmatrix565
 
 ---
 
@@ -192,10 +178,167 @@ Arduino-based automation project with sensors, WiFi monitoring, and energy optim
 while(alive)
 {
     Learn();
+    Code();
     Build();
-    Experiment();
     Repeat();
 }
 ```
 
-> "Technology becomes powerful when Engineering and Intelligence work together."
+> "Good software is built one commit at a time."<h1 align="center">
+Hi 👋, I'm Pratham Sharma
+</h1>
+
+<h3 align="center">
+Software Developer • Full Stack Engineer • AI Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+Full+Stack+Applications;Backend+Developer;Learning+System+Design;Exploring+Generative+AI;Always+Shipping+Projects+🚀" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 Passionate about building scalable software products.
+- 🌱 Currently learning **Backend Engineering, System Design & Generative AI**
+- 🚀 Love turning ideas into real-world applications.
+- 📚 Consistently improving through **Data Structures & Algorithms**
+- ⚡ Always curious, always building.
+
+---
+
+## 🚀 Currently Building
+
+- 🤖 AI-powered applications
+- 🌐 Full Stack Web Apps
+- ⚙️ Backend APIs
+- 📈 Scalable Software Projects
+- ☁️ Cloud-ready applications
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,sql" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 PrepWise AI
+
+AI-powered mock interview platform featuring
+
+- Resume Parsing
+- Voice Interviews
+- AI Evaluation
+- Interview Analytics
+
+---
+
+### 📄 ResumeAnalyzer AI
+
+FastAPI + NLP powered resume analysis system with ATS scoring and job matching.
+
+---
+
+### 🎬 MoodFlix
+
+Emotion-aware movie recommendation platform using OpenCV, CNN and Flask.
+
+---
+
+### 📅 HabitFlow
+
+Productivity tracker with authentication, analytics and calendar tracking.
+
+---
+
+### 🎮 Tic Tac Pro
+
+Real-time multiplayer Tic Tac Toe with AI gameplay and Firebase.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yeetmatrix565&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeetmatrix565&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=yeetmatrix565&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌱 Current Goals
+
+✅ Master Backend Development
+
+✅ Learn System Design
+
+✅ Solve 500+ DSA Problems
+
+✅ Build Production-ready AI Products
+
+---
+
+## 🤝 Connect With Me
+
+📧 **spratham172004@gmail.com**
+
+💼 LinkedIn
+
+www.linkedin.com/in/pratham-sharma-674627313
+
+🐙 GitHub
+
+github.com/yeetmatrix565
+
+---
+
+<p align="center">
+
+<i>"First, solve the problem. Then, write the code."</i>
+
+</p>
