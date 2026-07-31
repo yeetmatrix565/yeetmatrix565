@@ -116,24 +116,33 @@ Real-time multiplayer Tic Tac Toe platform featuring AI gameplay and Firebase.
 
 ---
 
-# 📊 GitHub Stats
+# 💼 What I Like Building
 
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yeetmatrix565&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeetmatrix565&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+```text
+🚀 Full Stack Applications
+⚙️ Backend APIs
+🤖 AI-Powered Products
+📱 Modern Web Experiences
+🗄️ Scalable Database Systems
+☁️ Cloud-Ready Applications
+```
 
 ---
 
-# 🏆 GitHub Achievements
+# 📚 Currently Exploring
 
-<p align="center">
+- 🧠 System Design
+- ⚡ Backend Architecture
+- 🤖 Large Language Models (LLMs)
+- ☁️ Cloud & Deployment
+- 📖 Advanced Data Structures & Algorithms
 
-<img src="https://github-profile-trophy.vercel.app/?username=yeetmatrix565&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+---
 
+# 💻 Favorite Tech
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,nextjs,react,nodejs,fastapi,mongodb,mysql,docker,git"/>
 </p>
 
 ---
